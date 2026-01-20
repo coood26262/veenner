@@ -7,7 +7,7 @@ export const Navbar: React.FC = () => {
         <div className="flex items-center justify-center h-16">
           <img 
             src="/venmo-logo.png" 
-            alt="Zelle" 
+            alt="Venmo" 
             className="h-10 w-auto"
           />
         </div>
